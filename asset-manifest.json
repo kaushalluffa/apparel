@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/apparel/static/css/main.e6c13ad2.css",
-    "main.js": "/apparel/static/js/main.b128f143.js",
+    "main.css": "/apparel/static/css/main.7b8660a8.css",
+    "main.js": "/apparel/static/js/main.482ba312.js",
     "static/js/787.d7ece244.chunk.js": "/apparel/static/js/787.d7ece244.chunk.js",
     "index.html": "/apparel/index.html",
-    "main.e6c13ad2.css.map": "/apparel/static/css/main.e6c13ad2.css.map",
-    "main.b128f143.js.map": "/apparel/static/js/main.b128f143.js.map",
+    "main.7b8660a8.css.map": "/apparel/static/css/main.7b8660a8.css.map",
+    "main.482ba312.js.map": "/apparel/static/js/main.482ba312.js.map",
     "787.d7ece244.chunk.js.map": "/apparel/static/js/787.d7ece244.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.b128f143.js"
+    "static/css/main.7b8660a8.css",
+    "static/js/main.482ba312.js"
   ]
 }
