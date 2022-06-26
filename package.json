@@ -1,6 +1,5 @@
 {
   "name": "apparel",
-  "homepage": "https://kaushalluffa.github.io/apparel",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,3 +42,4 @@
     ]
   }
 }
+
